@@ -37,7 +37,7 @@
         "symfony/uid": "^5.4 || ^6.3",
         "symfony/validator": "^5.4 || ^6.3",
         "symfony/workflow": "^5.4 || ^6.3",
-        "twig/twig": "^2.14",
+        "twig/twig": "^2.14 || ^3.0",
         "webmozart/assert": "^1.1"
     },
     "require-dev": {
